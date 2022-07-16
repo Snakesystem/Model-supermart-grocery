@@ -1,4 +1,4 @@
-# Model-supermart-grocery
+# Model Supermart Grocary
 
 ### The Goal Regression Model
 Memprediksi penjualan `sale_price` perusahaan berdasarkan
